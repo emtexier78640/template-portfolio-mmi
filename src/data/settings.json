@@ -4,14 +4,19 @@
     "firstname": "Emma",
     "portrait" : "avatar.jpg",
     "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
+    "biography": " Hey moi c’est Emma Texier et je suis étudiante en première année de BUT MMI. Originaire de la région parisienne, je vis aujourd'hui entre Lannion, pour mes études, et Lorient. Passionnée par l’audiovisuel et fascinée par le pouvoir de transmettre des émotions à travers la musique et les images, je me suis naturellement tournée vers le domaine de la communication.
+Mon objectif est de devenir attachée de presse ou chargée de communication, idéalement en Formule 1, un monde qui me passionne et qui m’inspire par son dynamisme et son innovation. 
+Mes stages, chez Bleu Iroise en production documentaire et MV Group en stratégie de communication, ont enrichi mes compétences en développement web, montage vidéo et gestion de projet. 
+Titulaire du BNSSA, je travaille également comme surveillante de baignade et handiplagiste, une activité qui développe mon sens des responsabilités et mes capacités d’adaptation.
+Mes passions pour la Formule 1, la musique et la littérature occupent une place importante dans ma vie et nourrissent ma créativité, que j'espère mettre au service de mes projets futurs. Alors monter le volume et rendez-vous au premier virage !
+",
     "cv" : "CV.pdf",
     "trainings": [
         {
             "name" : "BUT Métiers du Multimédia et de l'Internet",
             "school" : "IUT de Lannion, Université de Rennes",
-            "start" : 2023,
-            "end" : 2026
+            "start" : 2024,
+            "end" : 2027
         },
         {
             "name" : "Bac S, option Maths et Arts Plastiques",
